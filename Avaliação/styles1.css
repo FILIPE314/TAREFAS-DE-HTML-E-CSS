@@ -3,7 +3,7 @@ li {
 }
 
 .insta {
-    background-image: url(imagens_p/Screenshot_20240319-111904~2.png);
+    background-image: url(imagens/Screenshot_20240319-111904~2.png);
     background-repeat: no-repeat;
     width: 40px;
     height: 40px;
@@ -13,7 +13,7 @@ li {
 }
 
 .github {
-    background-image: url(imagens_p/Screenshot_20240422-161604~2.png);
+    background-image: url(imagens/Screenshot_20240422-161604~2.png);
     background-repeat: no-repeat;
     width: 40px;
     height: 40px;
