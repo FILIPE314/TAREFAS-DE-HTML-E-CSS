@@ -54,7 +54,7 @@ h1, h2, dl {
     background: linear-gradient(to left, purple, darkblue, purple);
     margin: -8px;
     height: 65px;
-    width: 1349px;
+    width: 101%;
     color: lightblue;
     border-top: 30px solid transparent;
     border-left: 50px solid transparent;
@@ -64,7 +64,7 @@ h1, h2, dl {
     background: linear-gradient(to left, purple, darkblue, purple);
     margin: -8px;
     height: 300px;
-    width: 1349px;
+    width: 101%;
     color: lightblue;
     border-top: 30px solid transparent;
     border-left: 50px solid transparent;

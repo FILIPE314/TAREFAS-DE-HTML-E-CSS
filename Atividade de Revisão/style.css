@@ -1,0 +1,10 @@
+body {
+    color: rgb(60, 123, 238);
+    background-color: lightblue;
+    font-family: sans-serif;
+}
+body img {
+    border: 5px solid rgb(218, 67, 218);
+    border-radius: 30px;
+    margin: 15px;
+}
