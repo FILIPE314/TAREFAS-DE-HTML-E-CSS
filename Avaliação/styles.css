@@ -5,6 +5,7 @@ head {
 body {
     font-family: Arial, Helvetica, sans-serif;
     background-color: lightblue;
+    margin: 0px;
 }
 
 img { 
@@ -52,9 +53,9 @@ h1, h2, dl {
 
 .cabecalho {
     background: linear-gradient(to left, purple, darkblue, purple);
-    margin: -8px;
+    margin: 0px;
     height: 65px;
-    width: 101%;
+    width: 100%;
     color: lightblue;
     border-top: 30px solid transparent;
     border-left: 50px solid transparent;
@@ -62,9 +63,9 @@ h1, h2, dl {
 
 .rodape {
     background: linear-gradient(to left, purple, darkblue, purple);
-    margin: -8px;
+    margin: 0px;
     height: 300px;
-    width: 101%;
+    width: 100%;
     color: lightblue;
     border-top: 30px solid transparent;
     border-left: 50px solid transparent;
